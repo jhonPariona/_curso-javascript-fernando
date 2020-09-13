@@ -31,5 +31,4 @@ Interfaz stándar que nos ayuda a acceder a los elementos de una página
 
 **document** es todo el HTML que tenemos desde el Doctype, head, body
 
-- **getElementsByClassName** retorna un html collections con los elementos que tienen la clase indicada.
--
+- **getElementsByClassName** retorna un html collections con los elementos que tienen la clase indicada. -**getElementById** retorna
