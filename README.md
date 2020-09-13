@@ -35,3 +35,7 @@ Interfaz stándar que nos ayuda a acceder a los elementos de una página
 - **getElementById** retorna un elemento que es el elementoq tienene el id
 - **querySelector** retorna solo un elemento y hacemos usao de los selectores de css
 - **querySelectorAll** Lo mismo que querySelector solo que retorna un nodeList con todos los elementos
+- **modificarcontenido elemento** Para modificar usamos uno de los siguientes propiedades y lo igualamos al texto que queremos ingresar
+  - **innerText** si el texto esta oculto no lo recupera
+  - **textContent** si recupera textos ocultos
+  - **innerHTML** recupera HTML
