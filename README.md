@@ -39,3 +39,16 @@ Interfaz stándar que nos ayuda a acceder a los elementos de una página
   - **innerText** si el texto esta oculto no lo recupera
   - **textContent** si recupera textos ocultos
   - **innerHTML** recupera HTML
+- **Modificar el css**
+  - **style**
+
+```js
+elemento.style.propiedadCSSCamelCase = "valor";
+```
+
+- **modificar clase**
+
+```js
+elemento.classList.add("nueva-clase");
+elemento.classList.remove("nueva-clase");
+```
