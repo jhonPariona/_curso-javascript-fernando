@@ -52,3 +52,9 @@ elemento.style.propiedadCSSCamelCase = "valor";
 elemento.classList.add("nueva-clase");
 elemento.classList.remove("nueva-clase");
 ```
+
+- **traversing**
+  ![traversing](images/card-traversing.png)
+
+  - **acceder a los hijos**
+    - **elemento.childNodes** lista todos los elementos incluido los espacios
